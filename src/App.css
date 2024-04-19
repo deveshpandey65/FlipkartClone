@@ -43,7 +43,7 @@
   width: 0px;
   margin-left: 0%;
   @media(max-width:786px) {
-      height: 24px;
+      height: 25px;
       width: 24px;
     }
 }
