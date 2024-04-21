@@ -40,8 +40,12 @@
   padding-left: 13.6px;
   padding-top: 13.6px;
   padding-bottom: 13.6px;
-  margin-left: 1%;
   margin-right: 1%;
+  z-index: 9999;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: white;
 
   @media(max-width:786px) {
     width: 100%;
@@ -384,6 +388,7 @@
   height: 126px;
   display: flex;
   flex-direction: row;
+  margin-top: 70px;
   justify-content: center;
   align-items: center;
   background-color: white;
@@ -612,4 +617,129 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.electronics{
+  display: flex;
+  flex-direction: row;
+}
+.electronics-box{
+  width: 235px;
+  height: 344px;
+  background-color: #2a55e5;
+  margin-left: 15px;
+}
+.electronics-box img{
+  width: 235px;
+  height: 344px;
 
+}
+
+
+
+.Productlistbig {
+  height: 695px;
+  width: 490px;
+  margin-right: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+.Productlist-titlebig {
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+
+}
+
+.Productlist-titlebig h4 {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: inter_semi_bold, fallback-inter_semi_bold, Arial, sans-serif;
+
+
+}
+
+
+.Productlist-desbig {
+  height: 280px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.Productlist-des-blockbig {
+    height: 285px;
+      min-width: 210px;
+      max-width: 210px;
+      border: 1px solid #09080847;
+      margin: 8px;
+      border-radius: 5px;
+      padding: 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.Productlist-des-blockbig p {
+  margin-top: 12px;
+  font-weight: 400;
+  font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
+  font-size: 16px;
+  overflow: hidden;
+
+}
+
+.Productlist-des-blockbig h5 {
+  font-weight: 600;
+  font-family: inter_semi_bold, fallback-inter_semi_bold, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.Productlist-des-block-imgbig {
+  height: 186px;
+  width: 186px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Productlist-des-block-imgbig img {
+  max-height: 186px;
+  max-width: 186px;
+
+}
+
+.Productlist-des-block-pbig {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  height: 30px;
+  width: 186px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+
+.Productlist-des-block-pbig p {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.productlistbigblock{
+  display: flex;
+  flex-direction: row;
+}
+.productlistbigblock img{
+  height: 695px;
+  width: 980px;
+}
