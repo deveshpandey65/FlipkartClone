@@ -1,21 +1,26 @@
 export const Productlistmodbig = {
-    'Best Of Electronics': [
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/l58iaa80/headphone/k/z/m/nord-buds-ce-oneplus-original-imagfyk4hyvgg6ze.jpeg?q=80', 'para': 'Best Truewireless Headphonne', 'head': 'Grab Now' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/210/210/kcf4lu80/speaker/mobile-tablet-speaker/h/u/f/srs-xb23-sony-original-imaftk66vjxp86h5.jpeg?q=80', 'para': 'Best Selling Mobile Speaker', 'head': 'From $499*' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/xif0q/monitor/i/x/5/gw2490-full-hd-24-2024-gw2490-benq-original-imagy6vfbvxjjhpu.jpeg?q=80', 'para': 'Monitors', 'head': 'From $8279' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/k0lbdzk0pkrrdj/printer-refurbished/a/5/h/c-laserjet-m1005-mfp-hp-original-imafjfx2hvjhmysr.jpeg?q=80', 'para': 'Printers', 'head': 'From $3999' }
+    'Summer Decor & Furnishing': [
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/bottle/k/l/l/900-eco-star-stainless-steel-water-bottle-2-fb-eco-star-yellow-original-imagzmpgfyprhjca.jpeg?q=80', 'para': 'Water Bottels & Flasks', 'head': 'Bestsellers' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/shopsy-kitchen-tool-set/c/h/x/daily-kitchen-use-combo-of-powerfull-blender-wooden-bhaji-original-imagmgx72ss8kwk9.jpeg?q=80', 'para': 'Kitchen Tool Sets', 'head': 'Min. 50% Off' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/torch/y/x/k/4-digi-led-dl95-kissan-rechargeable-flashlight-overcharge-original-imagtr5pydz3jfac.jpeg?q=80', 'para': 'Torches', 'head': 'In Focus Now' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/kw5ag7k0/tap-mount-water-filter/g/p/m/amar-amar-super-deals-original-imag8wfydqppwyg7.jpeg?q=80', 'para': 'Faucets', 'head': 'Min. 50% Off' }
         ],
-    'Beauty,Food,Toys & more': [
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/kx50gi80/pen/h/z/k/119766-flair-original-imag9nzubznagufg.jpeg?q=80', 'para': 'Top Selling Station', 'head': 'From $49' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/k0plpjk0/remote-control-toy/9/g/k/4-function-remote-control-high-speed-big-racing-car-toy-funkey-original-imafkg33umd8dy93.jpeg?q=80', 'para': 'Remote Controll Toys', 'head': 'Up to 80% Off' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/l111lzk0/cycle/m/r/e/xc-900-grey-lite-26-15-5-cradiac-21-gear-120-original-imagczuzpxeweczm.jpeg?q=80', 'para': 'Geared Bicycle', 'head': 'Up to 70% Off' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/l58iaa80/electric-cycle/i/y/f/-original-imagfykthgudy4qz.jpeg?q=80', 'para': 'Electric Cycle', 'head': ' up to 40% Off' }
-       ],
-    'Home & Kitchen Essential': [
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/k5e7o280/wall-clock/6/h/j/designer-wall-clock10-cw-ct-red25412-analog-ajanta-original-imafzyx3fdtf2hcb.jpeg?q=80', 'para': 'Clocks', 'head': 'Up to 80% Off' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/kirr24w0-0/wall-decoration/f/z/b/rafuf-wooden-intersecting-wall-shelves-set-of-8-black-white-8-original-imafyhg9dzdvyhnz.jpeg?q=80', 'para': 'Wall Decor Items', 'head': 'Up to 80% Off' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/ks4yz680/sticker/d/g/t/wall-stickers-wallpaper-home-decoration-whale-and-shaded-frames-original-imag5rvjdvrjdzgc.jpeg?q=80', 'para': 'Stickers & Wallpapers', 'head': 'Up to 80% Off' },
-        { 'imgsrc': 'https://rukminim1.flixcart.com/image/170/170/k3j1z0w0/ceiling-lamp/w/7/r/gold-01-classical-original-imafmbywhhurgf6b.jpeg?q=80', 'para': 'Decor Lightings', 'head': 'Up to 80% Off' }
-        ],
-
+    'Shop Student Essentials': [
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/t-shirt/l/x/a/3xl-2499175-roadster-original-imagugftecudhecg.jpeg?q=80', 'para': 'Mens T-shirts', 'head': 'Top Deals' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/hair-oil/w/7/h/300-adivasi-jadibuti-natural-pack-3-phillauri-original-imagz8qnepmbynyh.jpeg?q=80', 'para': 'Hair Oil', 'head': 'Min. 50% Off' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/headphone/z/c/x/nb111-wireless-bluetooth-headphone-magnetic-neckband-250h-original-imagwcm53gkzmtct.jpeg?q=80', 'para': 'Headset', 'head': 'Min. 50% Off' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/smartwatch/q/f/u/44-116-android-ios-quashwin-no-original-imag963jgfxbdk8b.jpeg?q=80', 'para': 'Smart Bands', 'head': 'Min. 40% Off' }
+    ],
+    'Festival Specials, Just For You!': [
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/headphone/8/o/2/ultra-pods-in-ear-earbuds-bluetooth-headphones-noise-canceling-original-imagyzvc4wxrxbah.jpeg?q=80', 'para': 'Headset', 'head': 'Min. 50% Off' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/l3ahpjk0/smart-band-tag/b/7/a/tft-lcd-no-free-3-yes-yes-health-tracker-watch-waterproof-sleep-original-imagefbssg6cmnvd.jpeg?q=80', 'para': 'Smart Bands', 'head': 'Min. 40% Off' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/kurta/y/d/x/s-sa-rasa-220-sa-rasa-original-imagq2w4sh6w6t6s.jpeg?q=80', 'para': 'Womens Kurtas', 'head': 'Special Offer' },
+        { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/shopsy-bottle/c/m/3/1000-tag-stainless-steel-water-bottle-1000ml-2-snapple-original-imagqz4d4ffmufng.jpeg?q=80', 'para': 'Water Bottel & Flask', 'head': 'Bestsellers' }
+    ],
+     'Latest Summer Styles': [
+         { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/t-shirt/y/3/x/m-gucci-tshirt-sti-original-imagzuyecyqaehkt.jpeg?q=80', 'para': 'Mens T-shirt', 'head': 'Top Deals' },
+         { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/xif0q/sandal/f/h/t/7-winner-blk-grey-7-sfr-black18-original-imagthnwmfvsffmm.jpeg?q=80', 'para': 'Mens Slipper & Flip Flipper', 'head': 'Min. 70% Off' },
+         { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/kxaq7ww0/t-shirt/m/b/v/m-dbmst-try-this-original-imag9rk6mztquknz.jpeg?q=80', 'para': 'T-shirts', 'head': 'Top Collection' },
+         { 'imgsrc': 'https://rukminim2.flixcart.com/image/220/220/k2gh30w0/sunglass/k/p/y/medium-waf2019-03-elligator-original-imafhry2uhysjbhd.jpeg?q=80', 'para': 'Sunglasses', 'head': 'Min. 70% Off' }
+    ]
 };
