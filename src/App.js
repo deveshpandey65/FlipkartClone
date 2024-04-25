@@ -4,6 +4,7 @@ import Options from './Options'
 import ImagesScroll from './ImagesScroll'
 import Productslist from './Productslist'
 import ProductslistBig from './ProductslistBig'
+import Footer from './Footer'
 
 export default function App() {
   return (
@@ -32,7 +33,9 @@ export default function App() {
         <br />
         <Productslist data={'Home & Kitchen Essential'} />
         <br />
+       
       </div>
+      <Footer />
     </>
 
   )
